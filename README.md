@@ -1,4 +1,4 @@
-# C-Verilog-Digital_Watch
+# C-Verilog-Digital_Clock
 
 ## Introduction
 The project aims to develop a digital clock displaying hours, minutes, and seconds, adjustable via a rotary encoder. It utilizes various clock frequencies to ensure high precision in timekeeping and includes optional features to enhance user experience, such as a choice between 12-hour and 24-hour formats and a stopwatch function that detects "short" and "long" clicks. The report details the development process, challenges faced, and adopted solutions.
